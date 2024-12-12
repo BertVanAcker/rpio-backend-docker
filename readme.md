@@ -18,8 +18,8 @@ Follow these steps to spin up the RobosapiensIO backend:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/BertVanAcker/rpio-backend-docker.git
+   cd rpio-backend-docker
    ```
 
 2. Start the services using Docker Compose:
